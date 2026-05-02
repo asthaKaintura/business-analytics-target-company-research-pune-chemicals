@@ -4,7 +4,6 @@
 This project focuses on identifying and evaluating 25 SME-scale specialty chemical manufacturers with operational presence in Pune, India. The objective is to simulate a real-world industrial research workflow by filtering a large universe of companies into a high-quality, rule-compliant dataset.
 
 The final dataset was developed using structured manual research, company verification, and a multi-criteria scoring framework.
-
 ---
 
 ## Objective
@@ -13,7 +12,7 @@ To identify and evaluate 25 genuine SME specialty chemical manufacturers based i
 ---
 
 ## Why Pune?
-Pune was selected due to its strong industrial ecosystem supported by MIDC zones such as Chakan, Bhosari, and Talegaon. The region hosts a dense cluster of chemical, pharmaceutical, and industrial manufacturing SMEs, making it suitable for specialty chemical ecosystem analysis.
+I selected Pune due to its strong industrial ecosystem supported by MIDC zones such as Chakan, Bhosari, and Talegaon. The region hosts a dense cluster of chemical, pharmaceutical, and industrial manufacturing SMEs, making it suitable for specialty chemical ecosystem analysis.
 
 ---
 
@@ -27,7 +26,7 @@ Each company was evaluated using six weighted criteria:
 - C5: Sector growth potential  
 - C6: Growth signals (expansion, exports, activity)
 
-Each company was scored qualitatively as Weak / Moderate / Strong and converted into a weighted score.
+Each company was scored qualitatively as Weak / Moderate / Strong or even Weak-Moderate and converted into a weighted score.
 
 ---
 
@@ -74,6 +73,3 @@ Approximately 70% of initially identified companies were filtered out, resulting
 
 
 ---
-
-## 👨‍💻 Author
-Business Analytics Research Project – Target Company Filtering Exercise
